@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: 'cranberry';
+    src: url("../assets/fonts/CranberryBlues.ttf");
+    font-weight: normal;
+    font-style: normal;
+    }
+@font-face{
+    font-family: 'goodpeople';
+    src: url("../assets/fonts/GOOD PEOPLE.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'honey';
+    src: url("../assets/fonts/Honey.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'starwars';
+    src: url("../assets/fonts/Starjedi.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: #0b1c2d;
+    margin-top: 40px;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+    font-family: 'starwars';
+    text-align: center;
+    margin-top:5px;
+}
+#mycanvas{
+
+    border:4px solid gold;
+    background-size: 45%;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
